@@ -1,2 +1,3 @@
 # MeuForm
- Formulário de Registro de Atendimentos
+_Formulário de Registro de Atendimentos do Serviço Quilombola SR-12(MA)_
+Este formulário foi desenvolvido com o intuito de registrar os atendimentos ao público realizados no meu local de trabalho. A ideia é que o controle do registro gere um banco de dados que, futuramente, poderá ser utilizado no planejamento estratégico do serviço. Na ausência de instrumentos oficiais da instituição, o presente formulário poderá ser utilizado como ferramenta de trabalho pelos servidores e colaboradores de um setor específico do órgão.

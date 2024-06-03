@@ -8,10 +8,12 @@ form {
     font-family: Verdana, Tahoma, sans-serif;
     font-size: 15px;
     background-color: green;
-    max-width: 500px;
+    max-width: 550px;
 }
 
-h2 {
+h1 {
+    font-size: 25px;
+    margin-top: 20px;
     margin-bottom: 20px;
     margin-left: 20px;
     color: white;
@@ -24,8 +26,8 @@ input, textarea {
     color: black;
     margin-left: 20px;
     margin-top: 10px;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border-radius: 5px;
     border: 2px solid;
 
 }
@@ -33,23 +35,24 @@ input, textarea {
 input:hover, textarea:hover, input:focus, textarea:focus, button:hover, button:focus {
     border-color: #000066;
     box-shadow: 5px 0px 9px #FFFF00;
-    background-color: #66FFFF;
+    background-color: #df6e12;
     color: black;
     font-weight: bold;
 }
 
 #form, button {
-    background-color: #66FFFF;
+    background-color: #df6e12;
     height: 40px;
     width: 100px;
     font-weight: bold;
     border-radius: 5px;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border-radius: 5px;
     border: 1px solid;
     color: black;
     margin-left: 20px;
     margin-top: 5px;
+    margin-bottom: 12px;
 }
 
 textarea {
